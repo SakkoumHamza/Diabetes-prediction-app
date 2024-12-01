@@ -1,6 +1,6 @@
 # Predilab - Diabetes Prediction and Information Platform
 
-Predilab is an interactive web application designed to help users assess their risk of developing Type 2 diabetes. It includes features such as prediction based on clinical data, personalized recommendations, and informative articles.
+Predilab is an interactive web application designed to help users assess their risk of developing Type 2 diabetes with an accuracy of 89.5% . It includes features such as prediction based on clinical data, personalized recommendations, and informative articles.
 
 ## Features
 
@@ -47,4 +47,4 @@ Predilab is an interactive web application designed to help users assess their r
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SakkoumHamza/predilab.git
+   git clone https://github.com/SakkoumHamza/Diabetes-prediction-app.git
