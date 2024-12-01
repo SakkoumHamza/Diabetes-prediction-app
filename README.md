@@ -43,8 +43,3 @@ Predilab is an interactive web application designed to help users assess their r
 - **Machine Learning Model:** Random Forest Classifier for optimized results.  
 - **Authentication:** Secure user management with email verification.
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/SakkoumHamza/Diabetes-prediction-app.git
