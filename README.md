@@ -1,37 +1,50 @@
-# Predilab - Plateforme de Prédiction et d'Informations sur le Diabète
+# Predilab - Diabetes Prediction and Information Platform
 
-Predilab est une plateforme interactive conçue pour aider les utilisateurs à évaluer leur risque de développer un diabète de type 2. Elle intègre des fonctionnalités telles que la prédiction basée sur des données cliniques, des recommandations personnalisées, et des articles informatifs.
+Predilab is an interactive web application designed to help users assess their risk of developing Type 2 diabetes. It includes features such as prediction based on clinical data, personalized recommendations, and informative articles.
 
-## Fonctionnalités
+## Features
 
-- **Prédiction de diabète :** Entrez vos données cliniques et obtenez une estimation basée sur un algorithme de machine learning.
-- **Conseils personnalisés :** Une section dédiée à des régimes alimentaires adaptés aux personnes diabétiques.
-- **Contact avec des spécialistes :** Une option pour connecter les utilisateurs avec des diabétologues.
-- **Articles éducatifs :** Accédez à des articles informatifs sur la gestion et la prévention du diabète.
+- **Diabetes Prediction:** Enter your clinical data and get an estimate based on a machine learning algorithm.
+- **Personalized Advice:** A dedicated section for diet plans tailored to diabetic individuals.
+- **Specialist Contact:** An option to connect users with diabetologists.
+- **Educational Articles:** Access informative articles on diabetes management and prevention.
 
-## Captures d'écran
+## Screenshots
 
-### Page de Connexion et d'Inscription
-![Capture d'écran de la page de connexion](path/to/screenshot-login.png)
+### Homepage
+![Homepage Screenshot](screenshots/hero.png)
 
-### Tableau de Bord
-![Capture d'écran du tableau de bord](path/to/screenshot-dashboard.png)
+### Prediction Page
+![Prediction Screenshot](screenshots/predict.png)
 
-### Résultats de Prédiction
-![Capture d'écran des résultats](path/to/screenshot-prediction.png)
+### Positive Result Example
+![Positive Result Screenshot](screenshots/positive.png)
 
-*(Remplacez les chemins par ceux des fichiers d'image dans votre repository.)*
+### Negative Result Example
+![Negative Result Screenshot](screenshots/negative.png)
 
-## Technologies Utilisées
+### Diet Plans
+![Diet Plans Screenshot](screenshots/diets.png)
 
-- **Frontend :** HTML, CSS, JS.
-- **Backend :** Django.
-- **Base de données :** Sqlite pour le stockage sécurisé des données utilisateurs.
-- **Modèle de Machine Learning :** Random Forest Classifier pour des résultats optimisés.
-- **Authentification :** Gestion sécurisée des utilisateurs avec vérification par email.
+### Doctors Section
+![Doctors Section Screenshot](screenshots/doctors.png)
+
+### Login Page
+![Login Page Screenshot](screenshots/login.png)
+
+### Sign-Up Page
+![Sign-Up Page Screenshot](screenshots/signup.png)
+
+## Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript.  
+- **Backend:** Django.  
+- **Database:** SQLite for secure user data storage.  
+- **Machine Learning Model:** Random Forest Classifier for optimized results.  
+- **Authentication:** Secure user management with email verification.
 
 ## Installation
 
-1. Clonez ce repository :
+1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/predilab.git
+   git clone https://github.com/SakkoumHamza/predilab.git
